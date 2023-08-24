@@ -22,3 +22,13 @@
 - 김태현 : https://codingdreamtree.tistory.com/86
 - 이준희 : https://phantom08266.github.io/posts/4%EC%9E%A5/
   
+
+### 3,4주차
+[4-2장]
+- 김태현 : https://codingdreamtree.tistory.com/87
+- 이준희 : 
+
+[4-3,4장]
+- 김태현 : https://codingdreamtree.tistory.com/88
+- 이준희 : 
+  
