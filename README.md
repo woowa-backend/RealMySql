@@ -46,4 +46,15 @@
 
 [5-4장]
 - 김태현 : https://codingdreamtree.tistory.com/91
-- 이준희 : 
+- 이준희 :
+
+### 7주차
+[6장]
+
+- 김태현 : 
+- 이준희 : https://phantom08266.github.io/posts/6%EC%9E%A5/
+
+[7장]
+
+- 김태현 : 
+- 이준희 : https://phantom08266.github.io/posts/7%EC%9E%A5(1)/
