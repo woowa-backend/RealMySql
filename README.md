@@ -51,10 +51,10 @@
 ### 7주차
 [6장]
 
-- 김태현 : 
+- 김태현 : https://codingdreamtree.tistory.com/93
 - 이준희 : https://phantom08266.github.io/posts/6%EC%9E%A5/
 
 [7장]
 
-- 김태현 : 
+- 김태현 : https://codingdreamtree.tistory.com/94
 - 이준희 : https://phantom08266.github.io/posts/7%EC%9E%A5(1)/
