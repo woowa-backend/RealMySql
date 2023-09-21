@@ -63,9 +63,9 @@
 [7장]
 
 - 김태현 : https://codingdreamtree.tistory.com/98
-- 이준희 : 
+- 이준희 : https://phantom08266.github.io/posts/7%EC%9E%A5(2)/
 
 [8장]
 
 - 김태현 : https://codingdreamtree.tistory.com/99
-- 이준희 : 
+- 이준희 : https://phantom08266.github.io/posts/8%EC%9E%A5(1)/, https://phantom08266.github.io/posts/8%EC%9E%A5(2)/
